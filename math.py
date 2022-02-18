@@ -10,4 +10,4 @@ def divide(x,y):
     pass
 # Multiply Implementation
 def multiple(x,y):
-    pass
+    return x*y
