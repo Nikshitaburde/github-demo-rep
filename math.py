@@ -4,7 +4,7 @@ def add(x,y):
 
 # Substract implemetation
 def substract(x,y):
-    pass
+    return x-y    #by other developer
 # Divide Implemetation
 def divide(x,y):
     pass
